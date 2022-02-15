@@ -1,0 +1,35 @@
+* {
+    background-color: #cfdaff;
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    background-color: #329da8;
+    margin-top: 0px;
+    color: #dbd512;
+    height: 200px;
+    text-decoration: underline;
+    text-decoration-color: #000000;
+}
+
+h3 {
+    font-size: 35px;
+    color: #04b82e;
+    text-decoration: underline;
+    text-decoration-color: #000000;
+}
+
+li {
+    font-family: "Brush Script MT", Arial, sans-serif;
+    font-size: 18px;
+    color: #072e00;
+}
+
+h4 {
+    color: darkblue;
+}
+
+p {
+    font-size: 18px;
+}
